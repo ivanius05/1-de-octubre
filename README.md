@@ -27,4 +27,4 @@ git add archivo.txt
 git commit -m "mensaje"
 ```
 
-![git](/1-de-octubre/img/git.png)
+![git](https://github.com/ivanius05/1-de-octubre/blob/main/img/git.png)
