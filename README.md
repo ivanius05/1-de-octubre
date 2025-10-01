@@ -12,7 +12,7 @@
 - Resolución de conflictos y gestión de versiones
 
 ### Enlaces
-Pagina oficial de git: [git](https://git-scm.com/)
+Pagina oficial de git: [Git](https://git-scm.com/)
 
 Pagina oficial de Markdown: [Markdown](https://markdown.es/)
 
